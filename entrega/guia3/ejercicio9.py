@@ -10,3 +10,7 @@
 # 8 x 8 = 64
 # 9 x 9 = 81
 # 10 x 10 = 100
+
+for i in range(11):
+    resultado = i * i
+    print(f"{i} x {i} = {resultado}")

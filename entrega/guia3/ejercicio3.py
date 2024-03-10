@@ -6,3 +6,4 @@ while numero > 0:
     for i in range(numero, -1, -1):
         print(i, end=' ')
     numero = 0
+    print("\n")
